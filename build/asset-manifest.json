@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1efa57a.css",
+    "main.js": "/static/js/main.9b63d5e6.js",
+    "static/media/pic.jpg": "/static/media/pic.8b2cbc5f3abb76e7ccbb.jpg",
+    "static/media/React.jpg": "/static/media/React.574657f6651cc28b9be9.jpg",
+    "static/media/Prateek.webp": "/static/media/Prateek.ab38997841af3a0992b1.webp",
+    "index.html": "/index.html",
+    "main.e1efa57a.css.map": "/static/css/main.e1efa57a.css.map",
+    "main.9b63d5e6.js.map": "/static/js/main.9b63d5e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1efa57a.css",
+    "static/js/main.9b63d5e6.js"
+  ]
+}
